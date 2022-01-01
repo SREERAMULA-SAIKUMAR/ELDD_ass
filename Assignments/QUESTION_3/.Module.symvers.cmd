@@ -1,0 +1,1 @@
+cmd_/home/sai/saik2/pi/ELDD/Assignments/QUESTION_3/Module.symvers := sed 's/ko$$/o/' /home/sai/saik2/pi/ELDD/Assignments/QUESTION_3/modules.order | scripts/mod/modpost -m -a   -o /home/sai/saik2/pi/ELDD/Assignments/QUESTION_3/Module.symvers -e -i Module.symvers   -T -
