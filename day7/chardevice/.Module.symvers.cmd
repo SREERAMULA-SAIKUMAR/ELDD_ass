@@ -1,0 +1,1 @@
+cmd_/home/sai/saik2/pi/ELDD/chardevice/Module.symvers := sed 's/ko$$/o/' /home/sai/saik2/pi/ELDD/chardevice/modules.order | scripts/mod/modpost -m -a   -o /home/sai/saik2/pi/ELDD/chardevice/Module.symvers -e -i Module.symvers   -T -
