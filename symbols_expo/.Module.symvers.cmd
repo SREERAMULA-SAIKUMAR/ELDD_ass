@@ -1,1 +1,0 @@
-cmd_/home/sai/saik2/ELDD/symbols_expo/Module.symvers := sed 's/ko$$/o/' /home/sai/saik2/ELDD/symbols_expo/modules.order | scripts/mod/modpost -m -a   -o /home/sai/saik2/ELDD/symbols_expo/Module.symvers -e -i Module.symvers   -T -

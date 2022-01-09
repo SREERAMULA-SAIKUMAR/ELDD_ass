@@ -1,1 +1,0 @@
-cmd_/home/sai/saik2/ELDD/native/hello.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sai/saik2/ELDD/native/hello.ko /home/sai/saik2/ELDD/native/hello.o /home/sai/saik2/ELDD/native/hello.mod.o;  true

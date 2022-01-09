@@ -1,1 +1,0 @@
-cmd_/home/sai/saik2/pi/ELDD/deferred_ktimers/modules.order := {   echo /home/sai/saik2/pi/ELDD/deferred_ktimers/deferred_ktimers.ko; :; } | awk '!x[$$0]++' - > /home/sai/saik2/pi/ELDD/deferred_ktimers/modules.order

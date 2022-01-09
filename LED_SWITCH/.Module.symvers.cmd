@@ -1,1 +1,0 @@
-cmd_/home/sai/saik2/pi/ELDD/LED_SWITCH/Module.symvers := sed 's/ko$$/o/' /home/sai/saik2/pi/ELDD/LED_SWITCH/modules.order | scripts/mod/modpost -m -a   -o /home/sai/saik2/pi/ELDD/LED_SWITCH/Module.symvers -e -i Module.symvers   -T -

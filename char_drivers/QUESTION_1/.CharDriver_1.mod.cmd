@@ -1,1 +1,0 @@
-cmd_/home/sai/saik2/pi/ELDD/Assignments/QUESTION_1/CharDriver_1.mod := { echo  /home/sai/saik2/pi/ELDD/Assignments/QUESTION_1/CharDriver_1.o;  echo; } > /home/sai/saik2/pi/ELDD/Assignments/QUESTION_1/CharDriver_1.mod

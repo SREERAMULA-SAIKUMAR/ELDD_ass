@@ -1,1 +1,0 @@
-cmd_/home/sai/saik2/ELDD/avg_modprobe/modules.order := {   echo /home/sai/saik2/ELDD/avg_modprobe/module1.ko;   echo /home/sai/saik2/ELDD/avg_modprobe/module2.ko; :; } | awk '!x[$$0]++' - > /home/sai/saik2/ELDD/avg_modprobe/modules.order

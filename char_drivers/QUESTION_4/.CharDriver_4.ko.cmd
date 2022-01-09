@@ -1,1 +1,0 @@
-cmd_/home/sai/saik2/pi/ELDD/char_drivers/QUESTION_4/CharDriver_4.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sai/saik2/pi/ELDD/char_drivers/QUESTION_4/CharDriver_4.ko /home/sai/saik2/pi/ELDD/char_drivers/QUESTION_4/CharDriver_4.o /home/sai/saik2/pi/ELDD/char_drivers/QUESTION_4/CharDriver_4.mod.o;  true
