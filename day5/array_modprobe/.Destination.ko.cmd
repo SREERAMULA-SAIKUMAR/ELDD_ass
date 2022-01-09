@@ -1,0 +1,1 @@
+cmd_/home/sai/saik2/pi/ELDD/array_modprobe/Destination.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sai/saik2/pi/ELDD/array_modprobe/Destination.ko /home/sai/saik2/pi/ELDD/array_modprobe/Destination.o /home/sai/saik2/pi/ELDD/array_modprobe/Destination.mod.o;  true
