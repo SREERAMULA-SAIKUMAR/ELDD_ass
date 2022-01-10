@@ -1,1 +1,0 @@
-cmd_/home/sai/saik2/pi/ELDD/char_drivers/QUESTION_4/CharDriver_4.mod := { echo  /home/sai/saik2/pi/ELDD/char_drivers/QUESTION_4/CharDriver_4.o;  echo; } > /home/sai/saik2/pi/ELDD/char_drivers/QUESTION_4/CharDriver_4.mod

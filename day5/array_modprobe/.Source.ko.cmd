@@ -1,1 +1,0 @@
-cmd_/home/sai/saik2/pi/ELDD/array_modprobe/Source.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sai/saik2/pi/ELDD/array_modprobe/Source.ko /home/sai/saik2/pi/ELDD/array_modprobe/Source.o /home/sai/saik2/pi/ELDD/array_modprobe/Source.mod.o;  true

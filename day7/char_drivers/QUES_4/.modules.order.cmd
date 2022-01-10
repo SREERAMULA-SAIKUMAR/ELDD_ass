@@ -1,1 +1,0 @@
-cmd_/home/sai/saik2/pi/ELDD/char_drivers/QUESTION_4/modules.order := {   echo /home/sai/saik2/pi/ELDD/char_drivers/QUESTION_4/CharDriver_4.ko; :; } | awk '!x[$$0]++' - > /home/sai/saik2/pi/ELDD/char_drivers/QUESTION_4/modules.order
